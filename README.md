@@ -7,6 +7,7 @@ Proxy alternativo para resolver erros de Cross-Origin Resource Sharing (CORS) - 
 
 # Demonstration
 API: https://damp-tor-97294.herokuapp.com
+
 Proxy: https://testeproxyangular.herokuapp.com
 
 Exemplo de chamada utilizando o proxy:
